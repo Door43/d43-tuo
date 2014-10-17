@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tuo:home|Door43 (tuo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tuo|d43-tuo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tuo/archive/master.zip|d43-tuo.zip]]
+
+**Recent Changes**
+{{changes>ns = tuo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tuo|Ethnologue data]]
+
